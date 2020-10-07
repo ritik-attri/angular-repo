@@ -1,0 +1,147 @@
+#body{
+  overflow-x: hidden;
+}
+#full_navbar{
+  height:50rem;
+  margin-left:91rem;
+  position:fixed;
+  display:block;
+  width:5rem;
+  z-index: 1;
+  background-color:black;
+}
+.navbar-nav{
+  background-color: black;
+}
+#my_background{
+  background-image: url("https://images.wallpaperscraft.com/image/pier_dock_sea_dusk_shore_118549_3840x2400.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  position: fixed;
+  background-size: cover;
+  height:47rem;
+  width:96rem;
+  z-index: -1;
+}
+.jumbotron>h1{
+  margin-top:5rem;
+  margin-left: 22rem;
+  font-family: 'Kufam', cursive;
+  color: black;
+  font-weight: normal;
+}
+.jumbotron>p{
+  margin-left:30rem;
+  margin-top:2rem;
+  font-family: 'Kufam', cursive;
+  font-weight: normal;
+}
+#jumbo_link{
+  margin-left:33rem;
+}
+#jumbo_jumbo{
+  height:50rem;
+  background: url("https://wallpapersmug.com/large/40d0fb/lake-nature-mountains.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#below_jumbo{
+  padding-top:0rem;
+}
+#below_jumbo>h1{
+  margin-top: 5rem;
+  color: lavenderblush;
+  font-family: 'Open Sans Condensed', sans-serif;
+  margin-left:40rem;
+  text-decoration: underline;
+  font-size: 5rem;
+}
+#myfields>h1{
+  margin-top: 5rem;
+  color: lavenderblush;
+  font-family: 'Open Sans Condensed', sans-serif;
+  margin-left:37rem;
+  text-decoration: underline;
+  font-size: 5rem;
+}
+#below_below_jumbo>p{
+  margin-top: 5rem;
+  color: lavenderblush;
+  font-family: 'Open Sans Condensed', sans-serif;
+  margin-left:25rem;
+  font-size: 2rem;
+  margin-bottom:8rem;
+}
+#myfields{
+  background: url("https://wallpapercave.com/wp/wp2506797.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height:45rem;
+}
+.card{
+  margin-top: 10rem;
+  margin-left: 6rem;
+  background:url("https://media4.giphy.com/media/xati8H6cuIYxi/giphy.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.card-img-top{
+  padding-top:2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.card-body{
+  font-family: 'Kufam', cursive;
+  color: lavenderblush;
+}
+
+#last_div>h3{
+  margin-top:5rem;
+  margin-left: 35rem;
+  color: lavenderblush;
+  font-family: 'Kufam', cursive;
+  text-decoration: underline;
+  font-size: xx-large;
+}
+#last_div>.row{
+  margin-left: 9rem;
+  margin-top:5rem;
+  color: lavenderblush;
+  font-family: 'Kufam', cursive;
+  font-size: x-large;
+}
+#last_div{
+  height: 40rem;
+  padding-top: 5rem;
+  background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,1));
+}
+#contact-info{
+  height: 30rem;
+  background: black;
+  padding-top: 5rem;
+}
+#contact-info>h3{
+  margin-top:5rem;
+  margin-left: 40rem;
+  color: lavenderblush;
+  font-family: 'Kufam', cursive;
+  text-decoration: underline;
+  font-size: xx-large;
+}
+#contact-info>.row{
+  margin-left: 9rem;
+  margin-top:5rem;
+  color: lavenderblush;
+  font-family: 'Kufam', cursive;
+  font-size: x-large;
+}
+#likess{
+  padding: 0;
+  padding-top: -6px;
+  margin-top: -16px;
+  height: 18px;
+}
+
